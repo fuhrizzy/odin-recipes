@@ -1,0 +1,1 @@
+This project consists of a simple recipe website made with HTML and CSS. It serves as an exercise to prove my own understanding of basic HTML and CSS.
